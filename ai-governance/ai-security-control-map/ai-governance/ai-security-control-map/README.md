@@ -123,18 +123,6 @@ Use the map to identify missing, weak, or immature AI controls and prioritise re
 | AI-generated outputs should be subject to human review where decisions may affect customers, employees, or regulated outcomes. | Overreliance on AI outputs may lead to unfair, inaccurate, harmful, or non-compliant decisions. | Test whether human review is embedded into workflow design and decision approval processes. | Workflow design, review logs, decision records, escalation procedure, quality assurance reports. |
 
 
-## Repository Structure
-
-ai-governance/
-└── ai-security-control-map/
-    ├── README.md
-    ├── ai-risk-classification-example.md
-    ├── control-prioritisation-matrix.md
-    ├── ai-security-control-attestation-template.md
-    └── assets/
-        └── ai_security_control_map_github_banner.png
-
-
 ## Supporting Files
 
 | File | Purpose |
