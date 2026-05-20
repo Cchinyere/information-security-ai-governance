@@ -125,7 +125,6 @@ Use the map to identify missing, weak, or immature AI controls and prioritise re
 
 ## Repository Structure
 
-```text
 ai-governance/
 └── ai-security-control-map/
     ├── README.md
