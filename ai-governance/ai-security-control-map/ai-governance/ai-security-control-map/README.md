@@ -152,11 +152,12 @@ ai-governance/
     └── docs/
         └── ai-security-control-map.pdf
 
-Disclaimer
+## Disclaimer
+
 
 This resource is provided as a practitioner reference and should be adapted to each organisation’s legal, regulatory, operational, and risk context. It does not replace legal, regulatory, or professional advice.
 
-Author
+## Author
 
 Created by Chinyere Chinekezi
 Cyber Security, GRC, AI Governance, and Security Assurance Professional
