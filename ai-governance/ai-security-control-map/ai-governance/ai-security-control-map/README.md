@@ -127,9 +127,9 @@ Use the map to identify missing, weak, or immature AI controls and prioritise re
 
 | File | Purpose |
 |---|---|
-| [AI Risk Classification Example](./ai-risk-classification-example.md) | Shows how AI systems can be classified by risk level using business impact, data sensitivity, autonomy, regulatory exposure, and customer impact. |
-| [Control Prioritisation Matrix](./control-prioritisation-matrix.md) | Provides a practical way to rank AI security controls by risk severity, implementation urgency, assurance priority, and business impact. |
-| [AI Security Control Attestation Template](./ai-security-control-attestation-template.md) | A reusable template for control owners to confirm whether AI security controls are implemented, evidenced, reviewed, and operating effectively. |
+| [AI Risk Classification Example](ai-risk-classification-example.md) | Shows how AI systems can be classified by risk level using business impact, data sensitivity, autonomy, regulatory exposure, and customer impact. |
+| [Control Prioritisation Matrix](control-prioritisation-matrix.md) | Provides a practical way to rank AI security controls by risk severity, implementation urgency, assurance priority, and business impact. |
+| [AI Security Control Attestation Template](ai-security-control-attestation-template.md) | A reusable template for control owners to confirm whether AI security controls are implemented, evidenced, reviewed, and operating effectively. |
 
 ## Downloadable Resource
 
