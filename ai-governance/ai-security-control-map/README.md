@@ -84,6 +84,15 @@ Each control objective is structured using **4 practical columns**.
 |---|---|
 | [Download AI Security Control Map PDF](https://github.com/Cchinyere/information-security-ai-governance/raw/main/ai-governance/ai-security-control-map/docs/ai-security-control-map.pdf) | Downloadable PDF version of the AI Security Control Map for offline review, audit planning, or governance discussions. |
 
+## AI Governance Toolkit
+
+| Resource | Description |
+|---|---|
+| [AI Security Control Map](ai-governance/ai-security-control-map/) | A practitioner reference for AI security controls, GRC, compliance, internal audit, and regulated financial services. |
+| [AI System Register Template](ai-governance/ai-system-register-template.md) | A template for documenting AI systems, ownership, use cases, data categories, risk level, and review status. |
+| [AI Governance Policy Template](ai-governance/ai-governance-policy-template.md) | A policy template for responsible, secure, and controlled AI adoption. |
+| [AI Vendor Due Diligence Checklist](ai-governance/ai-vendor-due-diligence-checklist.md) | A checklist for assessing third-party AI providers, embedded AI tools, and AI-related supplier risk. |
+
 ---
 
 ## Supporting Files
