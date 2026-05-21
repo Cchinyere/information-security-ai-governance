@@ -88,10 +88,10 @@ Each control objective is structured using **4 practical columns**.
 
 | Resource | Description |
 |---|---|
-| [AI Security Control Map](ai-governance/ai-security-control-map/) | A practitioner reference for AI security controls, GRC, compliance, internal audit, and regulated financial services. |
-| [AI System Register Template](ai-governance/ai-system-register-template.md) | A template for documenting AI systems, ownership, use cases, data categories, risk level, and review status. |
-| [AI Governance Policy Template](ai-governance/ai-governance-policy-template.md) | A policy template for responsible, secure, and controlled AI adoption. |
-| [AI Vendor Due Diligence Checklist](ai-governance/ai-vendor-due-diligence-checklist.md) | A checklist for assessing third-party AI providers, embedded AI tools, and AI-related supplier risk. |
+| [AI Security Control Map](./) | A practitioner reference for AI security controls, GRC, compliance, internal audit, and regulated financial services. |
+| [AI System Register Template](ai-system-register-template.md) | A template for documenting AI systems, ownership, use cases, data categories, risk level, and review status. |
+| [AI Governance Policy Template](ai-governance-policy-template.md) | A policy template for responsible, secure, and controlled AI adoption. |
+| [AI Vendor Due Diligence Checklist](ai-vendor-due-diligence-checklist.md) | A checklist for assessing third-party AI providers, embedded AI tools, and AI-related supplier risk. |
 
 ---
 
