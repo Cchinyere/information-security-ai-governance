@@ -135,4 +135,4 @@ Use the map to identify missing, weak, or immature AI controls and prioritise re
 
 | Resource | Description |
 |---|---|
-| [AI Security Control Map PDF](docs/ai-security-control-map.pdf) | Downloadable PDF version of the AI Security Control Map for offline review, audit planning, or governance discussions. |
+| [Download AI Security Control Map PDF](docs/ai-security-control-map.pdf?raw=1) | Downloadable PDF version of the AI Security Control Map for offline review, audit planning, or governance discussions. |
