@@ -1,6 +1,6 @@
 # AI Security Control Map
 
-![AI Security Control Map](assets/ai_security_control_map_github_banner.png)
+![AI Security Control Map](../../assets/ai_security_control_map_github_banner.png)
 
 ## Overview
 
@@ -82,7 +82,7 @@ Each control objective is structured using **4 practical columns**.
 
 | Resource | Description |
 |---|---|
-| [Download AI Security Control Map PDF](docs/ai-security-control-map.pdf?raw=1) | Downloadable PDF version of the AI Security Control Map for offline review, audit planning, or governance discussions. |
+| [Download AI Security Control Map PDF](../../docs/ai-security-control-map.pdf?raw=1) | Downloadable PDF version of the AI Security Control Map for offline review, audit planning, or governance discussions. |
 
 ---
 
