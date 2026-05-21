@@ -1,10 +1,12 @@
 # Information Security & AI Governance
 
-A professional portfolio repository for Information Security Governance, Risk and Compliance (GRC), ISO/IEC 27001, ISO/IEC 42001, NIST Cybersecurity Framework, SOC 2 readiness, and responsible AI governance.
+This repository contains practical information security and AI governance resources...
 
-This repository is designed to demonstrate practical capability in translating security and AI governance requirements into clear policies, controls, risk assessments, evidence matrices, and audit-ready documentation.
+## AI Governance Resources
 
----
+| Resource | Description |
+|---|---|
+| [AI Security Control Map](ai-governance/ai-security-control-map/) | A practitioner reference for AI security controls, GRC, compliance, internal audit, and regulated financial services. |
 
 ## Purpose
 
