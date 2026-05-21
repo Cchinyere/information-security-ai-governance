@@ -82,7 +82,7 @@ Each control objective is structured using **4 practical columns**.
 
 | Resource | Description |
 |---|---|
-| [Download AI Security Control Map PDF](../../docs/ai-security-control-map.pdf?raw=1) | Downloadable PDF version of the AI Security Control Map for offline review, audit planning, or governance discussions. |
+| [Download AI Security Control Map PDF](docs/ai-security-control-map.pdf?raw=1) | Downloadable PDF version of the AI Security Control Map for offline review, audit planning, or governance discussions. |
 
 ---
 
