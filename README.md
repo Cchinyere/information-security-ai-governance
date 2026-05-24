@@ -14,7 +14,7 @@ A practical toolkit for cybersecurity, GRC, and AI governance professionals. Thi
 
 ### Security Governance
 
-- [ISO 27001 Gap Assessment Template](security-governance/iso-27001-gap-assessment-template.md)
+- [ISO 27001 Gap Assessment](security-governance/iso-27001-gap-assessment-template.md)
 - [SOC 2 Readiness Checklist](security-governance/soc-2-readiness-checklist.md)
 - Incident response guidance
 - Security control assessment
