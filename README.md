@@ -143,3 +143,34 @@ Key resources:
 | Security Governance | `security-governance/` | ISO 27001, SOC 2, control assurance, incident response |
 | Templates | `templates/` | Reusable governance, risk, compliance, and assurance documents |
 | Documentation | `docs/` | Toolkit overview, guidance notes, and skills mapping |
+
+## Good Practice Notes
+
+When using this toolkit, treat each document as a practical starting point rather than a fixed standard.
+
+Good practice includes:
+
+- Adapt each template to the organization’s size, sector, risk profile, regulatory obligations, and operating environment.
+- Make ownership clear for each risk, control, assessment, or governance document.
+- Link risks to practical actions, accountable owners, evidence requirements, and review dates.
+- Keep governance documentation simple enough for teams to use consistently.
+- Review AI-related risks across security, privacy, ethics, legal, operational, and third-party dimensions.
+- Use the templates to support better decision-making, not just documentation.
+- Review and update the toolkit regularly based on incidents, audit findings, regulatory changes, technology changes, and lessons learned.
+- Validate all controls, assessments, and recommendations against the organization’s own policies, standards, and risk appetite.
+
+## Disclaimer
+
+This repository is provided as a practical toolkit and learning resource for information security and AI governance work.
+
+Organizations and individuals are encouraged to adopt, adapt, or modify any part of this toolkit based on what is appropriate for their size, sector, risk profile, workforce, regulatory obligations, internal policies, technical environment, and operational needs.
+
+This toolkit is not intended to be prescriptive or to replace legal, regulatory, compliance, privacy, audit, or professional security advice. Each organization should review the materials carefully and apply them in a way that aligns with its governance structure, business objectives, security controls, and risk appetite.
+
+## Author
+
+Prepared by **Chinyere Chinekezi**  
+Cybersecurity, GRC, and AI Governance Professional
+
+- GitHub Portfolio: [Information Security & AI Governance Toolkit](https://github.com/Cchinyere/information-security-ai-governance)
+- LinkedIn: [Chinyere Chinekezi](https://www.linkedin.com/in/chinyere-chinekezi-35043521/)
