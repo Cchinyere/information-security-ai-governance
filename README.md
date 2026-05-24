@@ -53,16 +53,22 @@ information-security-ai-governance/
 │
 └── docs/
     └── Supporting documentation, overview notes, and skills mapping
+```
 
 ## Toolkit Areas
 
-This toolkit is organized into four main areas: AI Governance, Security Governance, Templates, and Documentation. Each area contains practical resources that can be adopted, adapted, or expanded depending on the organization’s needs.
+This toolkit is organized into four main areas. Each area contains practical resources that can be adopted, adapted, or expanded based on the needs of the organization.
 
----
+| Area | Folder | Purpose |
+|---|---|---|
+| AI Governance | [`ai-governance/`](ai-governance/) | Resources for AI risk assessment, ISO/IEC 42001 alignment, responsible AI, AI system oversight, and AI-related security controls. |
+| Security Governance | [`security-governance/`](security-governance/) | Resources for ISO 27001, SOC 2, security control review, incident response, assurance, and governance documentation. |
+| Templates | [`templates/`](templates/) | Reusable working documents for governance, risk, compliance, control assurance, vendor review, and reporting. |
+| Documentation | [`docs/`](docs/) | Supporting guidance, toolkit overview notes, and skills mapping resources. |
 
-### 1. AI Governance
+### AI Governance
 
-The `ai-governance` folder contains resources focused on responsible AI adoption, AI risk assessment, ISO/IEC 42001 alignment, AI system oversight, and AI-related security controls.
+The `ai-governance` folder supports work related to responsible AI adoption, AI risk assessment, ISO/IEC 42001 readiness, AI system oversight, vendor review, and AI-related security controls.
 
 Use this section when you need to document or review:
 
@@ -75,16 +81,15 @@ Use this section when you need to document or review:
 - Responsible AI principles
 - Human oversight and decision accountability
 
+Key resource:
+
 | Resource | Purpose |
 |---|---|
-| [AI Governance Folder](ai-governance/) | Main folder for AI governance resources |
-| [ISO 42001 AI Risk Assessment Template](ai-governance/iso-42001-ai-risk-assessment-template.md) | Supports structured AI risk assessment and ISO/IEC 42001 alignment |
+| [ISO 42001 AI Risk Assessment Template](ai-governance/iso-42001-ai-risk-assessment-template.md) | Supports structured AI risk assessment and ISO/IEC 42001 alignment. |
 
----
+### Security Governance
 
-### 2. Security Governance
-
-The `security-governance` folder contains resources for information security governance, control review, assurance, and readiness activities.
+The `security-governance` folder supports traditional information security governance, control assurance, readiness reviews, and security improvement planning.
 
 Use this section when you need to support:
 
@@ -96,21 +101,20 @@ Use this section when you need to support:
 - Risk and control documentation
 - Security improvement planning
 
+Key resources:
+
 | Resource | Purpose |
 |---|---|
-| [Security Governance Folder](security-governance/) | Main folder for security governance resources |
-| [ISO 27001 Gap Assessment Template](security-governance/iso-27001-gap-assessment-template.md) | Supports ISO 27001 gap assessment and control review |
-| [SOC 2 Readiness Checklist](security-governance/soc-2-readiness-checklist.md) | Helps organizations assess readiness against SOC 2 trust service principles |
+| [ISO 27001 Gap Assessment Template](security-governance/iso-27001-gap-assessment-template.md) | Supports ISO 27001 gap assessment, control review, and improvement planning. |
+| [SOC 2 Readiness Checklist](security-governance/soc-2-readiness-checklist.md) | Helps organizations assess readiness against SOC 2 trust service principles. |
 
----
+### Templates
 
-### 3. Templates
+The `templates` folder contains reusable documents that can be copied and adapted for governance, risk, compliance, audit, vendor review, incident response, and control assurance work.
 
-The `templates` folder contains reusable documents that can be copied, adapted, and used as part of governance, risk, compliance, audit, or security improvement work.
+Examples of templates may include:
 
-Use this section when you need:
-
-- Risk registers
+- Risk register templates
 - Control assessment templates
 - Policy review templates
 - Governance reporting templates
@@ -118,25 +122,18 @@ Use this section when you need:
 - Incident response templates
 - Control attestation templates
 
-| Resource | Purpose |
-|---|---|
-| [Templates Folder](templates/) | Reusable templates and working documents for governance and assurance activities |
-
----
-
-### 4. Documentation
+### Documentation
 
 The `docs` folder contains supporting guidance, overview documents, and portfolio mapping resources.
 
 Use this section to understand the toolkit structure, how the resources connect, and how the work maps to practical cybersecurity, GRC, and AI governance skills.
 
+Key resources:
+
 | Resource | Purpose |
 |---|---|
-| [Documentation Folder](docs/) | Supporting guidance and explanatory documents |
-| [Toolkit Overview](docs/toolkit-overview.md) | Explains the purpose, structure, and use of the toolkit |
-| [Skills Map](docs/skills-map.md) | Maps toolkit resources to relevant cybersecurity, GRC, and AI governance skills |
-
----
+| [Toolkit Overview](docs/toolkit-overview.md) | Explains the purpose, structure, and use of the toolkit. |
+| [Skills Map](docs/skills-map.md) | Maps toolkit resources to cybersecurity, GRC, and AI governance skills. |
 
 ## Toolkit Summary
 
